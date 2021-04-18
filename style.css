@@ -1,0 +1,107 @@
+header aside section footer nav {
+    display: block;
+}
+
+.container {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+.line {
+    margin-left: 36px;
+    width: 1120px;
+    height: 1px;
+    background-color: rgb(228, 26, 228);
+}
+
+.head_list a {
+    text-decoration: none;
+    color: rgb(228, 26, 228);
+}
+
+.head_list a:hover {
+    text-decoration: none;
+    color: rgb(190, 6, 190);
+}
+
+.head_diva {
+    width: auto;
+    height: 30px;
+    
+}
+
+.head_container {
+    width: auto;
+}
+
+.head_list {
+    list-style-type: none;
+    display: inline;
+    padding-right: 5%;
+    float: right;
+    color: rgb(228, 26, 228);
+}
+
+.main_list {
+    list-style-type: none;
+    display: inline;
+    padding-right: 5%;
+    float: left;
+}
+
+.section_container {
+    height: 730px;
+    padding-top: 20px;
+    color: rgb(228, 26, 228);
+}
+
+.section_para {
+    text-align: left;
+    float: left;
+}
+
+.section_image {
+    float: right;
+    padding-top: 0px;
+}
+
+.aside_container {
+    height: 960px;
+    padding-top: 40px;
+    padding-left: 25px;
+    color: rgb(228, 26, 228);
+    background-color: rgb(236, 227, 236);
+}
+
+.aside_exp {
+    margin-top: 30px;
+}
+
+.footer_container {
+    height: 100px;
+    color: rgb(228, 26, 228);
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 50px;
+}
+
+.about_diva {
+    height: 100px;
+    display: inline;
+    width: 180px;
+    float: left;
+}
+
+.contact_diva {
+    height: 100px;
+    display: inline;
+    width: 180px;
+    float: left;
+}
+
+.contact_diva ul li {
+    list-style-type: none;
+}
+
+
+
